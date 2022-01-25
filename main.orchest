@@ -1,0 +1,31 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "6b8a35cd-a73b-478f-aa70-3a0bcefc9ddf": {
+            "environment": "771457a5-8527-4bdd-bc39-41677a9ac03a",
+            "file_path": "explore.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    676.5,
+                    435.5
+                ]
+            },
+            "parameters": {},
+            "title": "Explore",
+            "uuid": "6b8a35cd-a73b-478f-aa70-3a0bcefc9ddf"
+        }
+    },
+    "uuid": "45a52ffa-209f-4a23-a8a0-6dde8740897f",
+    "version": "1.0.0"
+}
